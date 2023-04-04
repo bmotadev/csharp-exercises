@@ -1,12 +1,15 @@
-﻿using System;
+﻿using csharp_exercises.Exercises;
+using System;
 
 namespace CsharpExercises
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ExerciseTest exercise1001 = new ExerciseTest();
+
+            exercise1001.Exercise1001Solution();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\wwww\dotnet\csharp-exercises\bin\Debug\net6.0\csharp-exercises.exe
+C:\wwww\dotnet\csharp-exercises\bin\Debug\net6.0\csharp-exercises.deps.json
+C:\wwww\dotnet\csharp-exercises\bin\Debug\net6.0\csharp-exercises.runtimeconfig.json
+C:\wwww\dotnet\csharp-exercises\bin\Debug\net6.0\csharp-exercises.dll
+C:\wwww\dotnet\csharp-exercises\bin\Debug\net6.0\csharp-exercises.pdb
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.csproj.AssemblyReference.cache
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.AssemblyInfoInputs.cache
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.AssemblyInfo.cs
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.csproj.CoreCompileInputs.cache
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.dll
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\refint\csharp-exercises.dll
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.pdb
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\csharp-exercises.genruntimeconfig.cache
+C:\wwww\dotnet\csharp-exercises\obj\Debug\net6.0\ref\csharp-exercises.dll
